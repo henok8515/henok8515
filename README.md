@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
+<img width="100%" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 <hr >
 
 [![Henok's GitHub stats](https://github-readme-stats.vercel.app/api?username=henok8515)](https://https://github.com/henok8515/my-over-view/edit/main/README.md)
